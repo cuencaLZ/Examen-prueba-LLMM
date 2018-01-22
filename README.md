@@ -9,6 +9,7 @@ Criterio de evaluación:
 - Estilo barra lateral derecha: (1,5 puntos)
 - Estilo cuerpo y pie: (1 puntos )
 - Diseño general (0’5 puntos)
+# Javascript (2 puntos)
  
 Ejercicios: 
 1. Desarrolla la siguiente página: (8 puntos)
